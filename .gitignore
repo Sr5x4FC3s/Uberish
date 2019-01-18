@@ -1,0 +1,6 @@
+##ignored 
+frontend/webClient/.env
+frontend/webClient/public/bundle.js
+frontend/webClient/node_modules/
+frontend/webClient/.vscode
+.vscode/
